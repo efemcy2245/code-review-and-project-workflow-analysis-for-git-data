@@ -1,0 +1,93 @@
+Appendix
+
+Examples
+
+User-Friendly Summary
+Author: Tor Andersson <tor.andersson@artifex.com>
+Role: Developer
+Story:
+
+Optimize the database schema so that the database becomes more efficient and scalable. The architect wants to optimize the database schema to improve query performance. By doing so, they can ensure that the database becomes more efficient 
+and scalable, allowing for better performance and handling of large volumes of data. The team agreed that this is a key requirement for the application's overall performance and scalability.
+
+The implementation of the sorting algorithm reduces memory allocations and eliminates the risk of memory leaks, improving overall performance. The developer thought about the codebase's reliability. "I want to improve its robustness and 
+reliability," he said. "This will ensure that the product delivers consistent and high-quality performance."
+
+He started by analyzing the code's dependencies and identifying areas for improvement. He worked with the team to implement fixes and enhancements, focusing on stability and scalability. The changes were well-received by the rest of the 
+development team. "I want to improve the robustness and reliability of the codebase," they agreed. The team was confident that the improvements would lead to better overall performance. The developer continued to work on the codebase, 
+ensuring that it remained reliable and efficient over time. He knew that a well-structured codebase was the foundation for a successful product.
+
+The DevOps engineer thought, "I want to ensure that the changes in the compiler's behavior align with the project goals of improving code readability and supporting Unicode." The current implementation was causing issues with some browsers, 
+which was slowing down the application. By implementing better handling for extended Unicode characters, the engineer could ensure that the application was tested and deployed across various platforms. After modifying the implementation, 
+the engineer tested it with various browsers. The results were clear: the application ran faster and handled complex Unicode cases more accurately. The engineer was satisfied that the change would make the application more reliable and efficient.
+
+The architect designed a data structure, such as a binary search tree, that allowed for efficient insertion and removal of elements while maintaining a constant time complexity. "I want to design a data structure that allows for efficient 
+insertion and removal of elements," he thought. "This will create scalable and maintainable databases." The current data structures were inefficient and had limitations, such as high memory usage or slow lookup times. By designing a new 
+data structure, the architect could create a scalable and maintainable database. After implementing the changes, the database ran faster and handled more complex queries with ease. The architect tested it in various scenarios, satisfied 
+that the design would make a noticeable difference in real-world applications.
+
+The engineer's team wanted to improve the compiler's ability to handle Unicode characters in strings, so that it could handle a wide range of characters and languages. The engineer's code had been struggling to correctly handle Unicode characters, 
+which were causing errors in various parts of the codebase. By re-examining the string manipulation code, the engineer wanted to find a way to correctly handle Unicode characters. After analyzing the code, he realized that the issue was due to 
+incorrect handling of Unicode characters. He wanted to improve the compiler's ability to correctly handle Unicode characters. The engineer implemented a fix, which improved the code's correctness and reliability. He then tested the changes, 
+which showed a significant improvement in Unicode character handling accuracy. The engineer was satisfied, knowing that the changes would help improve the compiler's ability to handle a wide range of characters and languages.
+
+The quality assurance engineer examined the test cases and thought, "I want to ensure that these cover all possible edge cases." The current test cases were limited in their scope, failing to account for complex scenarios or unexpected user inputs. 
+By adding comprehensive test cases, the engineer could ensure that the testing process was thorough and reliable, reducing the likelihood of false positives or false negatives. After implementing the changes, the engineer tested the test cases with 
+various user inputs. The results were positive: the test cases accurately covered all edge cases, and the testing process was more reliable.
+
+
+Technical Summary
+Author: Tor Andersson tor.andersson@artifex.com
+Role: Software Architect
+The project manager reviewed the changes in utf.h and said, "I want to ensure that these changes align with our project goals of improving code readability and supporting Unicode, so that the codebase is more maintainable and scalable." 
+The manager knew that improving readability would help current and future developers navigate the code with ease, while ensuring full Unicode support would make the system adaptable to a broader range of languages and characters. With 
+the team aligned on these goals, the changes were carefully implemented, making the codebase cleaner, more flexible, and ready for future growth. The manager felt confident knowing the project was on the right track for long-term success.
+
+Technical Summary
+Author: Tor Andersson tor.andersson@artifex.com
+Role: Tester
+The designer created a simple sorting algorithm for small fragments in jsgc.c, tailored for small data sets. The algorithm sped up processing without the overhead of qsort, improving the system's performance by reducing unnecessary complexity.
+The designer tested the system, and the results were clear—performance had improved.
+
+Technical Summary
+Author: Tor Andersson tor.andersson@artifex.com
+Role: Developer
+
+The developer stared at the quicksort implementation, knowing it had its limits.
+"I want to replace quicksort with heapsort," he said.
+"This will make it more efficient and reliable for various scenarios."
+Quicksort had worked fine for most cases, but in extreme scenarios, its performance faltered.
+He quickly refactored the code, replacing quicksort with heapsort.
+The system now handled large datasets with ease, running faster and using less memory.
+The developer smiled, satisfied with the improvements, knowing that the change would make the system ready for anything.
+
+Example 5: IT Consultant
+"I want to improve the performance of the database query optimizer by using a more efficient algorithm," the consultant said,
+"so that it can handle large datasets and complex queries."
+Using a more efficient algorithm would help the optimizer handle the increased workload, reducing the load on the database and improving overall system performance.
+
+Example 6: Sales Engineer
+The sales engineer reviewed the product code in the jsgc.c file and muttered to himself,
+"I want to implement a simple quicksort for small fragments here, so that it can be used as a replacement for qsort."
+He knew qsort was effective, but it came with overhead that wasn't necessary for small data sets.
+A simpler, more efficient quicksort would improve the product's performance by reducing unnecessary complexity.
+
+Example 7: UX Designer
+The UX designer reviewed the website code and said,
+"I want to improve its accessibility by using a more efficient algorithm, so that users can navigate the site with ease."
+Using a more efficient algorithm would help users with disabilities, ensuring the website is usable and accessible for everyone.
+
+Example 8: Business Analyst
+The business analyst reviewed the system code and said,
+"I want to ensure that this system is more efficient and scalable by implementing a more efficient algorithm, so that it can handle large datasets and complex queries."
+Using a more efficient algorithm would help the system handle the increased workload, reducing the load on the database and improving overall system performance.
+
+Example 9: Product Manager
+The product manager reviewed the product code in the jsgc.c file and said,
+"I want to improve its performance by using a more efficient algorithm, so that it can handle large datasets and complex queries."
+Using a more efficient algorithm would help the product handle the increased workload, reducing the load on the database and improving overall system performance.
+
+Example 10: Marketing Specialist
+The marketing specialist reviewed the marketing campaign code and said,
+"I want to improve its performance by using a more efficient algorithm, so that it can handle large datasets and complex queries."
+Using a more efficient algorithm would help the campaign handle the increased workload, reducing the load on the database and improving overall system performance.
