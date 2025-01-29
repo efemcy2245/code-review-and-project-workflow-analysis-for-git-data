@@ -1,11 +1,11 @@
-Appendix
+**Appendix**
 
-Examples
+**Examples**
 
-User-Friendly Summary
-Author: Tor Andersson <tor.andersson@artifex.com>
-Role: Developer
-Story:
+**User-Friendly Summary**
+**Author:** Tor Andersson <tor.andersson@artifex.com>
+**Role:** Developer
+**Story:**
 
 Optimize the database schema so that the database becomes more efficient and scalable. The architect wants to optimize the database schema to improve query performance. By doing so, they can ensure that the database becomes more efficient 
 and scalable, allowing for better performance and handling of large volumes of data. The team agreed that this is a key requirement for the application's overall performance and scalability.
@@ -36,22 +36,22 @@ By adding comprehensive test cases, the engineer could ensure that the testing p
 various user inputs. The results were positive: the test cases accurately covered all edge cases, and the testing process was more reliable.
 
 
-Technical Summary
-Author: Tor Andersson tor.andersson@artifex.com
-Role: Software Architect
+**Technical Summary**
+**Author:** Tor Andersson tor.andersson@artifex.com
+**Role:** Software Architect
 The project manager reviewed the changes in utf.h and said, "I want to ensure that these changes align with our project goals of improving code readability and supporting Unicode, so that the codebase is more maintainable and scalable." 
 The manager knew that improving readability would help current and future developers navigate the code with ease, while ensuring full Unicode support would make the system adaptable to a broader range of languages and characters. With 
 the team aligned on these goals, the changes were carefully implemented, making the codebase cleaner, more flexible, and ready for future growth. The manager felt confident knowing the project was on the right track for long-term success.
 
-Technical Summary
-Author: Tor Andersson tor.andersson@artifex.com
-Role: Tester
+**Technical Summary**
+**Author:** Tor Andersson tor.andersson@artifex.com
+**Role: Tester**
 The designer created a simple sorting algorithm for small fragments in jsgc.c, tailored for small data sets. The algorithm sped up processing without the overhead of qsort, improving the system's performance by reducing unnecessary complexity.
 The designer tested the system, and the results were clear—performance had improved.
 
-Technical Summary
-Author: Tor Andersson tor.andersson@artifex.com
-Role: Developer
+**Technical Summary**
+**Author:** Tor Andersson tor.andersson@artifex.com
+**Role:** Developer
 
 The developer stared at the quicksort implementation, knowing it had its limits.
 "I want to replace quicksort with heapsort," he said.
