@@ -32,6 +32,6 @@ Generates stories to describe project evolution based on commits. Captures the e
 
 ## Team Members
 
-- [Massimo Francios](github.com/maxfra01)
+- [Massimo Francios](https://github.com/maxfra01)
 - [Davide Monaco](https://github.com/efemcy2245)
 - [Francesco Alzate](https://github.com/FrancescoAlzate)
