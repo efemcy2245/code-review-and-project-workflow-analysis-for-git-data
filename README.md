@@ -34,4 +34,4 @@ Generates stories to describe project evolution based on commits. Captures the e
 
 - [Massimo Francios](github.com/maxfra01)
 - [Davide Monaco](https://github.com/efemcy2245)
-- [Francesco Alzate]()
+- [Francesco Alzate](https://github.com/FrancescoAlzate)
